@@ -92,7 +92,16 @@ An interactive Power BI dashboard was created to visualize marketing performance
 
 ## Dashboard Preview
 
-![Dashboard Overview](screenshots/dashboard_overview.png)
+## Marketing Funnel Analysis
+
+## Campaign Performance
+
+![Campaign Performance](Screenshots/Campaigne_performance.png)
+
+## Campaign Performance
+
+![Funnel Analysis](Screenshots/Funnel_analysis.png)
+
 
 ---
 

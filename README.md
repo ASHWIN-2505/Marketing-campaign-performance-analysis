@@ -105,4 +105,3 @@ An interactive Power BI dashboard was created to visualize marketing performance
 
 ---
 
-## Repository Structure
